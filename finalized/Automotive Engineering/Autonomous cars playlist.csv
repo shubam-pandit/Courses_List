@@ -1,16 +1,16 @@
-Unnamed: 0,Sector,CourseName,Duration,Minimum Education,Language,Module,TopicName,URL
-1684,Automotive Engineering,Autonomous cars playlist,94hrs 15min,12th,English/Hindi,Module 1: Introduction to Autonomous Vehicles,DARPA Urban Challenge (2007),https://www.youtube.com/watch?v=-xibwwNVLgg
-1685,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 1: DARPA Challenges & Early Innovations,Winning The DARPA Grand Challenge,https://www.youtube.com/watch?v=TDqzyd7fDRc
-1686,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 1: The ALV & ALVINN,Self-Driving Cars [S1E4: RALPH],https://www.youtube.com/watch?v=DIAKL0s4Mzs
-1687,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 1: Wired: Races that Jump-Started Self-Driving Cars,Self-Driving Cars [S1E3: AI Failure?],https://www.youtube.com/watch?v=yaYER2M8dcs
-1688,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 2: How Driverless Cars See the Road,Self Driving Cars [S1E2: ALVINN],https://www.youtube.com/watch?v=H0igiP6Hg1k
-1689,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 2: Autonomous Vehicle Technical Stack,Self Driving Cars [S1E1: The ALV],https://www.youtube.com/watch?v=cExJbbwOfcw
-1690,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 2: Lidar Technology & Applications,The Races That Jump-Started the Self-Driving Car | WIRED,https://www.youtube.com/watch?v=9PIJKE5KMtU
-1691,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 3: Deep Learning for Autonomous Vehicles,Chris Urmson: How a driverless car sees the road,https://www.youtube.com/watch?v=tiwVMrTLUWg
-1692,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 3: System Design Perspective,Autonomous Vehicle Technical Stack,https://www.youtube.com/watch?v=V8LA0_bb9LI
-1693,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 4: Self-Driving Cars: AI Failure?,Lidar 101 from Velodyne Lidar,https://www.youtube.com/watch?v=NZKvf1cXe8s
-1694,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 4: RALPH: A Deep Dive,"Deep learning for autonomous vehicles, from a system design perspective",https://www.youtube.com/watch?v=QKdE1C0Qeow
-1695,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 5: Autonomous Vehicle Sensors,Autonomous Vehicles,https://www.youtube.com/watch?v=GbDXsLW7gSQ
-1696,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,"Module 5: Lidar, Radar, Camera","Self-Driving Vehicle Sensors: Lidar, Radar, Camera",https://www.youtube.com/watch?v=HJI1bZe769w
-1697,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 6: Machine Learning for Perception at Cruise,Machine Learning for Autonomous Vehicle Perception at Cruise,https://www.youtube.com/watch?v=-UPfyvDJz9I
-1698,Automotive Engineering,Autonomous cars playlist,,12th,English/Hindi,Module 6: Advanced Perception Techniques,Machine Learning for Autonomous Vehicle Perception at Cruise,https://www.youtube.com/watch?v=-UPfyvDJz9I
+"Unnamed: 0","Sector","CourseName","Duration","Minimum Education","Language","Module","TopicName","URL"
+1684,"Automotive Engineering","Autonomous cars playlist","94hrs 15min","12th","English/Hindi","Module 1: Introduction to Autonomous Vehicles","DARPA Urban Challenge (2007)","https://www.youtube.com/watch?v=-xibwwNVLgg"
+1685,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 1: DARPA Challenges & Early Innovations","Winning The DARPA Grand Challenge","https://www.youtube.com/watch?v=TDqzyd7fDRc"
+1686,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 1: The ALV & ALVINN","Self-Driving Cars [S1E4: RALPH]","https://www.youtube.com/watch?v=DIAKL0s4Mzs"
+1687,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 1: Wired: Races that Jump-Started Self-Driving Cars","Self-Driving Cars [S1E3: AI Failure?]","https://www.youtube.com/watch?v=yaYER2M8dcs"
+1688,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 2: How Driverless Cars See the Road","Self Driving Cars [S1E2: ALVINN]","https://www.youtube.com/watch?v=H0igiP6Hg1k"
+1689,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 2: Autonomous Vehicle Technical Stack","Self Driving Cars [S1E1: The ALV]","https://www.youtube.com/watch?v=cExJbbwOfcw"
+1690,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 2: Lidar Technology & Applications","The Races That Jump-Started the Self-Driving Car | WIRED","https://www.youtube.com/watch?v=9PIJKE5KMtU"
+1691,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 3: Deep Learning for Autonomous Vehicles","Chris Urmson: How a driverless car sees the road","https://www.youtube.com/watch?v=tiwVMrTLUWg"
+1692,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 3: System Design Perspective","Autonomous Vehicle Technical Stack","https://www.youtube.com/watch?v=V8LA0_bb9LI"
+1693,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 4: Self-Driving Cars: AI Failure?","Lidar 101 from Velodyne Lidar","https://www.youtube.com/watch?v=NZKvf1cXe8s"
+1694,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 4: RALPH: A Deep Dive","Deep learning for autonomous vehicles, from a system design perspective","https://www.youtube.com/watch?v=QKdE1C0Qeow"
+1695,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 5: Autonomous Vehicle Sensors","Autonomous Vehicles","https://www.youtube.com/watch?v=GbDXsLW7gSQ"
+1696,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 5: Lidar, Radar, Camera","Self-Driving Vehicle Sensors: Lidar, Radar, Camera","https://www.youtube.com/watch?v=HJI1bZe769w"
+1697,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 6: Machine Learning for Perception at Cruise","Machine Learning for Autonomous Vehicle Perception at Cruise","https://www.youtube.com/watch?v=-UPfyvDJz9I"
+1698,"Automotive Engineering","Autonomous cars playlist","","12th","English/Hindi","Module 6: Advanced Perception Techniques","Machine Learning for Autonomous Vehicle Perception at Cruise","https://www.youtube.com/watch?v=-UPfyvDJz9I"

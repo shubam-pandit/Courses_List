@@ -1,11 +1,11 @@
-Unnamed: 0,Sector,CourseName,Duration,Minimum Education,Language,Module,TopicName,URL
-9917,Finance,Wealth Management Tutorial,31hrs 12min,12th,English/Hindi,Module 1: Introduction to Wealth Management,Wealth Management,https://www.youtube.com/watch?v=l24V5aK0Dcc
-9918,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 1: Building a Strong Financial Foundation,Wealth Cycle,https://www.youtube.com/watch?v=3RA75GO6BSk
-9919,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 1: Understanding Risk and Return,Asset Allocation,https://www.youtube.com/watch?v=-uDEe_yRw7Q
-9920,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 1: Investing Fundamentals,Financial Plannning,https://www.youtube.com/watch?v=4cBJ4UBXxgE
-9921,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 2: Navigating the Wealth Cycle,Retirement Planning,https://www.youtube.com/watch?v=gXE4MODDsHY
-9922,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 2: Asset Allocation Strategies,Estate Planning,https://www.youtube.com/watch?v=48vlXeQTrhk
-9923,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 2: Portfolio Optimization Techniques,Money Laundering,https://www.youtube.com/watch?v=OXeafDUsLr8
-9924,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 3: Financial Planning and Goal Setting,Portfolio Management,https://www.youtube.com/watch?v=Qmw15cG2Mv4
-9925,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 3: Retirement Planning Essentials,Mutual Fund Ratios,https://www.youtube.com/watch?v=ZxJVSBPnJxU
-9926,Finance,Wealth Management Tutorial,,12th,English/Hindi,Module 3: Estate Planning Basics,Behavioral Biases In Investing,https://www.youtube.com/watch?v=GQ8geflGWAQ
+"Unnamed: 0","Sector","CourseName","Duration","Minimum Education","Language","Module","TopicName","URL"
+9917,"Finance","Wealth Management Tutorial","31hrs 12min","12th","English/Hindi","Module 1: Introduction to Wealth Management","Wealth Management","https://www.youtube.com/watch?v=l24V5aK0Dcc"
+9918,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 1: Building a Strong Financial Foundation","Wealth Cycle","https://www.youtube.com/watch?v=3RA75GO6BSk"
+9919,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 1: Understanding Risk and Return","Asset Allocation","https://www.youtube.com/watch?v=-uDEe_yRw7Q"
+9920,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 1: Investing Fundamentals","Financial Plannning","https://www.youtube.com/watch?v=4cBJ4UBXxgE"
+9921,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 2: Navigating the Wealth Cycle","Retirement Planning","https://www.youtube.com/watch?v=gXE4MODDsHY"
+9922,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 2: Asset Allocation Strategies","Estate Planning","https://www.youtube.com/watch?v=48vlXeQTrhk"
+9923,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 2: Portfolio Optimization Techniques","Money Laundering","https://www.youtube.com/watch?v=OXeafDUsLr8"
+9924,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 3: Financial Planning and Goal Setting","Portfolio Management","https://www.youtube.com/watch?v=Qmw15cG2Mv4"
+9925,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 3: Retirement Planning Essentials","Mutual Fund Ratios","https://www.youtube.com/watch?v=ZxJVSBPnJxU"
+9926,"Finance","Wealth Management Tutorial","","12th","English/Hindi","Module 3: Estate Planning Basics","Behavioral Biases In Investing","https://www.youtube.com/watch?v=GQ8geflGWAQ"
