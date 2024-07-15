@@ -1,13 +1,13 @@
-"Unnamed: 0","Sector","CourseName","Duration","Minimum Education","Language","Module","TopicName","URL"
-3725,"Medicine","Psychiatry","32hrs 23min","12th","English/Hindi","Module 1: Psychotic Disorders & Differential Diagnosis","Schizophrenia vs. Schizophreniform vs. Schizoaffective vs. Schizoid vs. Schizotypal","https://www.youtube.com/watch?v=JmiARS9TIj8"
-3726,"Medicine","Psychiatry","","12th","English/Hindi","Module 1: Psychotic Disorders & Differential Diagnosis","Serotonin Syndrome vs. Neuroleptic Malignant Syndrome","https://www.youtube.com/watch?v=et3uLVIJjXY"
-3727,"Medicine","Psychiatry","","12th","English/Hindi","Module 1: Psychotic Disorders & Differential Diagnosis","Ego Defenses","https://www.youtube.com/watch?v=hcivsIRg9hc"
-3728,"Medicine","Psychiatry","","12th","English/Hindi","Module 1: Movement Disorders & Adverse Effects","Dopamine Pathways, Antipsychotics, and EPS","https://www.youtube.com/watch?v=wCtC3LN2Vfc"
-3729,"Medicine","Psychiatry","","12th","English/Hindi","Module 2: Mood Disorders & Bereavement","Normal Grief vs. Pathologic Grief vs. Major Depression vs. Adjustment Disorder vs.  Anxiety","https://www.youtube.com/watch?v=mjf8dOQr2lY"
-3730,"Medicine","Psychiatry","","12th","English/Hindi","Module 2: Mood Disorders & Bereavement","Major Depression and SSRI's/SNRI's","https://www.youtube.com/watch?v=eNdHaitsVIk"
-3731,"Medicine","Psychiatry","","12th","English/Hindi","Module 2: Mood Disorders & Bereavement","Somatoform Disorders (Somatic Symptom, Conversion, Illness Anxiety, Factitious, Malingering)","https://www.youtube.com/watch?v=gaAdSGVgd3Y"
-3732,"Medicine","Psychiatry","","12th","English/Hindi","Module 3: Anxiety and Somatic Disorders","Bipolar Disorder: criteria, types, symptoms, and treatment","https://www.youtube.com/watch?v=-TOs6cceTlA"
-3733,"Medicine","Psychiatry","","12th","English/Hindi","Module 3: Anxiety and Somatic Disorders","Anxiety Disorders","https://www.youtube.com/watch?v=uRufJh56y0E"
-3734,"Medicine","Psychiatry","","12th","English/Hindi","Module 4: Personality Disorders & Substance Use","Personality Disorders","https://www.youtube.com/watch?v=1jv8wHDoliA"
-3735,"Medicine","Psychiatry","","12th","English/Hindi","Module 4: Personality Disorders & Substance Use","Drugs of Abuse (Mechanism, Intoxication, Withdrawal, & Associations)","https://www.youtube.com/watch?v=wytDunVxNx0"
-3736,"Medicine","Psychiatry","","12th","English/Hindi","Module 4: Stages of Change & Treatment Considerations","Stages of Change (Pre-contemplation, Contemplation, Preparation, Action, Maintenance, & Relapse)","https://www.youtube.com/watch?v=-6JdOb5eXvU"
+S.No.,Sector,CourseName,Duration,Minimum Education,Language,Module,TopicName,URL
+1,Medicine,Psychiatry,32hrs 23min,12th,English/Hindi,Module 1: Psychotic Disorders & Differential Diagnosis,Schizophrenia vs. Schizophreniform vs. Schizoaffective vs. Schizoid vs. Schizotypal,https://www.youtube.com/watch?v=JmiARS9TIj8
+2,Medicine,Psychiatry,,12th,English/Hindi,Module 1: Psychotic Disorders & Differential Diagnosis,Serotonin Syndrome vs. Neuroleptic Malignant Syndrome,https://www.youtube.com/watch?v=et3uLVIJjXY
+3,Medicine,Psychiatry,,12th,English/Hindi,Module 1: Psychotic Disorders & Differential Diagnosis,Ego Defenses,https://www.youtube.com/watch?v=hcivsIRg9hc
+4,Medicine,Psychiatry,,12th,English/Hindi,Module 1: Psychotic Disorders & Differential Diagnosis,"Dopamine Pathways, Antipsychotics, and EPS",https://www.youtube.com/watch?v=wCtC3LN2Vfc
+5,Medicine,Psychiatry,,12th,English/Hindi,Module 2: Mood Disorders & Bereavement,Normal Grief vs. Pathologic Grief vs. Major Depression vs. Adjustment Disorder vs.  Anxiety,https://www.youtube.com/watch?v=mjf8dOQr2lY
+6,Medicine,Psychiatry,,12th,English/Hindi,Module 2: Mood Disorders & Bereavement,Major Depression and SSRI's/SNRI's,https://www.youtube.com/watch?v=eNdHaitsVIk
+7,Medicine,Psychiatry,,12th,English/Hindi,Module 2: Mood Disorders & Bereavement,"Somatoform Disorders (Somatic Symptom, Conversion, Illness Anxiety, Factitious, Malingering)",https://www.youtube.com/watch?v=gaAdSGVgd3Y
+8,Medicine,Psychiatry,,12th,English/Hindi,Module 3: Anxiety and Somatic Disorders,"Bipolar Disorder: criteria, types, symptoms, and treatment",https://www.youtube.com/watch?v=-TOs6cceTlA
+9,Medicine,Psychiatry,,12th,English/Hindi,Module 3: Anxiety and Somatic Disorders,Anxiety Disorders,https://www.youtube.com/watch?v=uRufJh56y0E
+10,Medicine,Psychiatry,,12th,English/Hindi,Module 4: Personality Disorders & Substance Use,Personality Disorders,https://www.youtube.com/watch?v=1jv8wHDoliA
+11,Medicine,Psychiatry,,12th,English/Hindi,Module 4: Personality Disorders & Substance Use,"Drugs of Abuse (Mechanism, Intoxication, Withdrawal, & Associations)",https://www.youtube.com/watch?v=wytDunVxNx0
+12,Medicine,Psychiatry,,12th,English/Hindi,Module 4: Personality Disorders & Substance Use,"Stages of Change (Pre-contemplation, Contemplation, Preparation, Action, Maintenance, & Relapse)",https://www.youtube.com/watch?v=-6JdOb5eXvU

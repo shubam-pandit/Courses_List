@@ -1,18 +1,18 @@
-"Unnamed: 0","Sector","CourseName","Duration","Minimum Education","Language","Module","TopicName","URL"
-6115,"Psychology","MIT 9.13 The Human Brain, Spring 2019","1hrs 1196min","12th","English/Hindi","Module 1: Introduction & Neuroanatomy","1. Introduction to the Human Brain","https://www.youtube.com/watch?v=ba-HMvDn_vU"
-6116,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 1: Introduction & Neuroanatomy","2. Neuroanatomy","https://www.youtube.com/watch?v=bAkuNXtgrLA"
-6117,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 1: Introduction & Neuroanatomy","4. Cognitive Neuroscience Methods I","https://www.youtube.com/watch?v=vFZY--lgmHs"
-6118,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 1: Introduction & Neuroanatomy","5. Cognitive Neuroscience Methods II","https://www.youtube.com/watch?v=YD7QG4G7WVg"
-6119,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 2: Cognitive Neuroscience Methods","6. Introduction to the Human Brain","https://www.youtube.com/watch?v=Nk0H3o-hRMA"
-6120,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 2: Cognitive Neuroscience Methods","7. Category Selectivity, Controversies, and MVPA","https://www.youtube.com/watch?v=otriwYhNtm0"
-6121,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 3: Category Selectivity & Navigation","8. Navigation I","https://www.youtube.com/watch?v=MuRVOQY8KoY"
-6122,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 3: Category Selectivity & Navigation","9. Navigation II","https://www.youtube.com/watch?v=ppxK4R8XWfU"
-6123,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 4: Development & Nature/Nurture","10. Development, Nature & Nurture I","https://www.youtube.com/watch?v=kAX_PRnliMo"
-6124,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 4: Development & Nature/Nurture","11. Development, Nature & Nurture II (2018)","https://www.youtube.com/watch?v=xA00vkxG3lE"
-6125,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 5: Sensory and Cognitive Functions","13. Number","https://www.youtube.com/watch?v=W2PY6z1Wddg"
-6126,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 5: Sensory and Cognitive Functions","15. Hearing and Speech","https://www.youtube.com/watch?v=9Bz-5-RC690"
-6127,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 5: Sensory and Cognitive Functions","16. Music","https://www.youtube.com/watch?v=YVHM8dSkimo"
-6128,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 6: Language, Theory of Mind & Networks","18. Language I","https://www.youtube.com/watch?v=XRdJ5mXBo8A"
-6129,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 6: Language, Theory of Mind & Networks","20. Theory of Mind & Mentalizing","https://www.youtube.com/watch?v=pfZY5aDJazA"
-6130,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 6: Language, Theory of Mind & Networks","21. Brain Networks","https://www.youtube.com/watch?v=SchmVoc5NzY"
-6131,"Psychology","MIT 9.13 The Human Brain, Spring 2019","","12th","English/Hindi","Module 6: Language, Theory of Mind & Networks","24. Attention and Awareness","https://www.youtube.com/watch?v=B4a0WdGp52g"
+S.No.,Sector,CourseName,Duration,Minimum Education,Language,Module,TopicName,URL
+1,Psychology,"MIT 9.13 The Human Brain, Spring 2019",1hrs 1196min,12th,English/Hindi,Module 1: Introduction & Neuroanatomy,1. Introduction to the Human Brain,https://www.youtube.com/watch?v=ba-HMvDn_vU
+2,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 1: Introduction & Neuroanatomy,2. Neuroanatomy,https://www.youtube.com/watch?v=bAkuNXtgrLA
+3,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 1: Introduction & Neuroanatomy,4. Cognitive Neuroscience Methods I,https://www.youtube.com/watch?v=vFZY--lgmHs
+4,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 1: Introduction & Neuroanatomy,5. Cognitive Neuroscience Methods II,https://www.youtube.com/watch?v=YD7QG4G7WVg
+5,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 2: Cognitive Neuroscience Methods,6. Introduction to the Human Brain,https://www.youtube.com/watch?v=Nk0H3o-hRMA
+6,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 2: Cognitive Neuroscience Methods,"7. Category Selectivity, Controversies, and MVPA",https://www.youtube.com/watch?v=otriwYhNtm0
+7,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 3: Category Selectivity & Navigation,8. Navigation I,https://www.youtube.com/watch?v=MuRVOQY8KoY
+8,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 3: Category Selectivity & Navigation,9. Navigation II,https://www.youtube.com/watch?v=ppxK4R8XWfU
+9,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 4: Development & Nature/Nurture,"10. Development, Nature & Nurture I",https://www.youtube.com/watch?v=kAX_PRnliMo
+10,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 4: Development & Nature/Nurture,"11. Development, Nature & Nurture II (2018)",https://www.youtube.com/watch?v=xA00vkxG3lE
+11,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 5: Sensory and Cognitive Functions,13. Number,https://www.youtube.com/watch?v=W2PY6z1Wddg
+12,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 5: Sensory and Cognitive Functions,15. Hearing and Speech,https://www.youtube.com/watch?v=9Bz-5-RC690
+13,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,Module 5: Sensory and Cognitive Functions,16. Music,https://www.youtube.com/watch?v=YVHM8dSkimo
+14,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,"Module 6: Language, Theory of Mind & Networks",18. Language I,https://www.youtube.com/watch?v=XRdJ5mXBo8A
+15,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,"Module 6: Language, Theory of Mind & Networks",20. Theory of Mind & Mentalizing,https://www.youtube.com/watch?v=pfZY5aDJazA
+16,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,"Module 6: Language, Theory of Mind & Networks",21. Brain Networks,https://www.youtube.com/watch?v=SchmVoc5NzY
+17,Psychology,"MIT 9.13 The Human Brain, Spring 2019",,12th,English/Hindi,"Module 6: Language, Theory of Mind & Networks",24. Attention and Awareness,https://www.youtube.com/watch?v=B4a0WdGp52g
